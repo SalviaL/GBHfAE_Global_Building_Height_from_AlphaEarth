@@ -33,10 +33,10 @@ The runtime environment needs:
 - access to `GOOGLE/SATELLITE_EMBEDDING/V1/ANNUAL`
 - optional `geemap` for interactive maps
 
-If your Earth Engine project is not `global-urban`, change:
+Set your Earth Engine project, change:
 
 ```python
-ee.Initialize(project="global-urban")
+ee.Initialize(project="YOUR PROJECT ID")
 ```
 
 to your own project.
