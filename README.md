@@ -17,6 +17,8 @@ The deployed model is the current best setup from this project:
   weights for all seven regions.
 - `ae_global_height_estimation.ipynb`: Python / geemap bbox demo using
   `model.py`.
+
+### GEE code editor files
 - `model_params.csv`: exported model parameters for the JavaScript workflow.
   Upload this CSV as an Earth Engine table asset.
 - `gee_functions.js`: reusable GEE JavaScript functions. Save this as a Code
