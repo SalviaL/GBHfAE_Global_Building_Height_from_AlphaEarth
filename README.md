@@ -3,6 +3,8 @@
 This folder contains a pure Earth Engine Python implementation of the trained
 AlphaEarth building-height model.
 
+[**Try demo on GEE:**](https://code.earthengine.google.com/3bfb8ae8748a509b9c924370272a189a)
+
 ## Files
 
 - `model.py`: Earth Engine model code with embedded regional MLP weights.
