@@ -1,5 +1,9 @@
 # AE Torch to Earth Engine
 
+**Try the demo:**
+https://global-urban.projects.earthengine.app/view/estimate-building-height-from-alphaearth
+https://code.earthengine.google.com/4bc3869f00127fa94912835bce6905df
+
 This folder contains the Earth Engine deployment code for the selected
 AlphaEarth building-height model.
 
